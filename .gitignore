@@ -26,6 +26,12 @@ sysinfo.txt
 *.user
 *.userprefs
 *.pidb
+*.asset
+*.png
+*.tmx
+*.prefab
+*.ase
+*.asset.meta
 .DS_Store
 
 ###
